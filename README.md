@@ -104,11 +104,14 @@ All settings can be adjusted via the GUI.
 
 ## Screenshots
 
-### Main Settings Window
-![Main Settings](https://via.placeholder.com/600x400)
+### Light-Mode :nauseated_face: :vomiting_face:
+![Main Settings](https://github.com/user-attachments/assets/cb9492c6-b1d5-4719-a834-22c2c0d36a66)
+
+### Dark-Mode
+![Tutorial Page](https://github.com/user-attachments/assets/9566853a-3e29-4bae-b6e5-3249bc189af6)
 
 ### Tutorial
-![Tutorial](https://via.placeholder.com/600x400)
+![Window Title](https://github.com/user-attachments/assets/06b30e9d-b2ba-458c-8aa8-f12643f39113)
 
 ---
 
